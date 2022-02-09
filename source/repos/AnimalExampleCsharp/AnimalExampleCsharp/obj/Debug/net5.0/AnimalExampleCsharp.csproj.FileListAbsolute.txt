@@ -1,0 +1,16 @@
+C:\Users\marwa\source\repos\AnimalExampleCsharp\AnimalExampleCsharp\obj\Debug\net5.0\AnimalExampleCsharp.csproj.AssemblyReference.cache
+C:\Users\marwa\source\repos\AnimalExampleCsharp\AnimalExampleCsharp\obj\Debug\net5.0\AnimalExampleCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marwa\source\repos\AnimalExampleCsharp\AnimalExampleCsharp\obj\Debug\net5.0\AnimalExampleCsharp.AssemblyInfoInputs.cache
+C:\Users\marwa\source\repos\AnimalExampleCsharp\AnimalExampleCsharp\obj\Debug\net5.0\AnimalExampleCsharp.AssemblyInfo.cs
+C:\Users\marwa\source\repos\AnimalExampleCsharp\AnimalExampleCsharp\obj\Debug\net5.0\AnimalExampleCsharp.csproj.CoreCompileInputs.cache
+C:\Users\marwa\source\repos\AnimalExampleCsharp\AnimalExampleCsharp\bin\Debug\net5.0\AnimalExampleCsharp.exe
+C:\Users\marwa\source\repos\AnimalExampleCsharp\AnimalExampleCsharp\bin\Debug\net5.0\AnimalExampleCsharp.deps.json
+C:\Users\marwa\source\repos\AnimalExampleCsharp\AnimalExampleCsharp\bin\Debug\net5.0\AnimalExampleCsharp.runtimeconfig.json
+C:\Users\marwa\source\repos\AnimalExampleCsharp\AnimalExampleCsharp\bin\Debug\net5.0\AnimalExampleCsharp.runtimeconfig.dev.json
+C:\Users\marwa\source\repos\AnimalExampleCsharp\AnimalExampleCsharp\bin\Debug\net5.0\AnimalExampleCsharp.dll
+C:\Users\marwa\source\repos\AnimalExampleCsharp\AnimalExampleCsharp\bin\Debug\net5.0\ref\AnimalExampleCsharp.dll
+C:\Users\marwa\source\repos\AnimalExampleCsharp\AnimalExampleCsharp\bin\Debug\net5.0\AnimalExampleCsharp.pdb
+C:\Users\marwa\source\repos\AnimalExampleCsharp\AnimalExampleCsharp\obj\Debug\net5.0\AnimalExampleCsharp.dll
+C:\Users\marwa\source\repos\AnimalExampleCsharp\AnimalExampleCsharp\obj\Debug\net5.0\ref\AnimalExampleCsharp.dll
+C:\Users\marwa\source\repos\AnimalExampleCsharp\AnimalExampleCsharp\obj\Debug\net5.0\AnimalExampleCsharp.pdb
+C:\Users\marwa\source\repos\AnimalExampleCsharp\AnimalExampleCsharp\obj\Debug\net5.0\AnimalExampleCsharp.genruntimeconfig.cache
