@@ -6,14 +6,17 @@ using System.Threading.Tasks;
 
 namespace AnimalExampleCsharp
 {
-    public class Cats : Mammal
+    public abstract class Cats : Mammal
     {
 
         /////////Attributes/////////
 
 
         ////////Constructor///////
+        public Cats(String Name, int Age) : base(Name, Age)
+        { }
 
+        public Cats(int Age) : this("ManBat", Age) { }
 
 
         ///////Methods/////////

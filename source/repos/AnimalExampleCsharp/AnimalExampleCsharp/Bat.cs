@@ -14,10 +14,10 @@ namespace AnimalExampleCsharp
 
 
         ///////////////constructors///////////////
-        public Bat(String Name, int Age) : base(Name, Age)
+        public Bat(String Name, int Age, string Breathing) : base(Name, Age, Breathing)
         { }
 
-        public Bat(int Age) : this("ManBat", Age) { }
+        public Bat(int Age, string Breathing) : this("ManBat", Age, Breathing) { }
 
         //public Bat() : base() { }
 
@@ -27,7 +27,7 @@ namespace AnimalExampleCsharp
             //implement later
         }
 
-        public void takeOff(){}
+        public void takeOff() { }
 
         public void flight() { }
 

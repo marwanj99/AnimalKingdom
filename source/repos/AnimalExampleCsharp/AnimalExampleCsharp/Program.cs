@@ -10,11 +10,12 @@ namespace AnimalExampleCsharp
             Bat myBat = new Bat("BatMan",17);
             Console.WriteLine(myBat.ToString());
             Console.WriteLine(myBat.Poo());
-            myBat.Flight();
+            myBat.flight();
             Console.WriteLine("I am " + myBat.Name);
-            Console.WriteLine(myBat, Age);
+            Console.WriteLine(myBat.Age);
             Bat batMy = new Bat(17);
             Console.WriteLine(batMy.Name);
+            Console.WriteLine(batMy.Breathing);
         }
     }
 }

@@ -12,7 +12,10 @@ namespace AnimalExampleCsharp
 
 
         //////////////Constructor//////////
+        public Colugo(String Name, int Age) : base(Name, Age)
+        { }
 
+        public Colugo(int Age) : this("ManBat", Age) { }
 
         ////////////Methods///////////////
 

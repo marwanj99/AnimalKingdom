@@ -11,8 +11,8 @@ namespace AnimalExampleCsharp
         //////////////////Attributes/////////////////////////
 
         public string Name { get; private set;  }
-        public int age { get; private set; }
         public int Age { get; private set; }
+        public string Type { get; set; }
 
 
 
@@ -47,16 +47,23 @@ namespace AnimalExampleCsharp
 
         public int GetAgeOldWay()
         {
-            return age;
+            return Age;
         }
 
         public void SetAgeOldWay(int newAge)
         {
-            age = newAge;
+            Age = newAge;
         }
 
+        public string GetType()
+        {
+            return Type;
+        }
 
-        public int getAge { get; private set; }
+        public void SetType(string TypeOfAnimal) 
+        {
+            Type = TypeOfAnimal;
+        }
    
 
     }
