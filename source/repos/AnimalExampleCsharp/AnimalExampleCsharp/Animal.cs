@@ -18,6 +18,7 @@ namespace AnimalExampleCsharp
 
 
         ////////////////////Constructors////////////////////////////
+        public Animal() { }
         public Animal(String Name, int Age)
         {
             this.Name  = Name;

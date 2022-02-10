@@ -10,14 +10,30 @@ namespace AnimalExampleCsharp
     {
         /////////Attributes/////////
 
-
-        ////////Constructor///////
-        public Birds(String Name, int Age) : base(Name, Age)
-        { }
+        public string Breathing { get; private set; }
 
 
-        ///////Methods/////////
-        override public void Breathe() { }
+        ///////////Constructor////////////
+        public Birds()
+        {
+
+        }
+        public Birds(string Name, int Age, string Breathing) : base("default", 1)
+        {
+            this.Breathing = Breathing;
+        }
+
+
+        public Birds(string Name, int Age) : base(Name, Age) { }
+
+        public Birds(int Age) : base("default", Age) { }
+
+        ////////////Method//////////////////
+        override public void Breathe()
+        {
+            Breathing = "Birds breath in air through their Beaks and nose and send oxygen to their body";
+        }
+
         override public abstract void Eat(string food);
         public override Birds Reproduce(Animal otherParent)
         {

@@ -15,18 +15,19 @@ namespace AnimalExampleCsharp
 
 
         ///////////Constructor////////////
-        /*public Mammal(string Name, int Age, string Breathing) : base("default", 1)
+        public Mammal()
+        {
+
+        }
+        public Mammal(string Name, int Age, string Breathing) : base("default", 1)
         {
             this.Breathing = Breathing;
         }
-        */
-        public Mammal(string Name, int Age, string Breathing) : base(Name, Age)
-        {
-            this.Breathing = Breathing;
-        }
+        
 
         public Mammal(string Name, int Age) : base(Name, Age) { }
-        
+
+        public Mammal(int Age) : base( "default", Age) { }
 
 
         ////////////Method//////////////////

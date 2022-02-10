@@ -16,6 +16,7 @@ namespace AnimalExampleCsharp
             Bat batMy = new Bat(17);
             Console.WriteLine(batMy.Name);
             Console.WriteLine(batMy.Breathing);
+            Animal myExtraBat = new Bat();
         }
     }
 }

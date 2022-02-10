@@ -8,21 +8,29 @@ namespace AnimalExampleCsharp
 {
     public abstract class Amphibian : Animal
     {
-        ///////////////atributes///////////
-        ///
-
+        public string Breathing { get; private set; }
 
 
         ///////////Constructor////////////
-        public Amphibian(String Name, int Age) : base(Name, Age)
-        { 
-            
+        public Amphibian()
+        {
+
+        }
+        public Amphibian(string Name, int Age, string Breathing) : base("default", 1)
+        {
+            this.Breathing = Breathing;
         }
 
 
+        public Amphibian(string Name, int Age) : base(Name, Age) { }
+
+        public Amphibian(int Age) : base("default", Age) { }
 
         ////////////Method//////////////////
-        override public void Breathe() { }
+        override public void Breathe()
+        {
+            Breathing = "amphibians breath in air through their Beaks and nose and send oxygen to their body";
+        }
         override public abstract void Eat(string food);
         public override Mammal Reproduce(Animal otherParent)
         {
