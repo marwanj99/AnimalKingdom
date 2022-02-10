@@ -15,8 +15,16 @@ namespace AnimalExampleCsharp
 
 
         ///////////Constructor////////////
+        public Mammal(string Name, int Age) : base("default", 1)
+        {
 
+        }
 
+        /*public Mammal(string Name, int Age) : base(Name, Age)
+        {
+
+        }
+        */
 
 
         ////////////Method//////////////////

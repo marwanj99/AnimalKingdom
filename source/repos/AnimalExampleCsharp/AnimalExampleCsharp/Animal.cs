@@ -10,7 +10,7 @@ namespace AnimalExampleCsharp
     {
         //////////////////Attributes/////////////////////////
 
-        public string name { get; private set;  }
+        public string Name { get; private set;  }
         public int age { get; private set; }
         public int Age { get; private set; }
 
@@ -18,11 +18,10 @@ namespace AnimalExampleCsharp
 
 
         ////////////////////Constructors////////////////////////////
-        public Animal()
-            : base()
+        public Animal(String Name, int Age)
         {
-            age = 1;
-            name = "bob";
+            this.Name  = Name;
+            this.Age = Age;
         }
 
 

@@ -12,7 +12,8 @@ namespace AnimalExampleCsharp
 
 
         ////////Constructor///////
-
+        public Birds(String Name, int Age) : base(Name, Age)
+        { }
 
 
         ///////Methods/////////

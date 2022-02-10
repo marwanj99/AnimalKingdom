@@ -14,8 +14,12 @@ namespace AnimalExampleCsharp
 
 
         ///////////////constructors///////////////
+        public Bat(String Name, int Age) : base(Name, Age)
+        { }
 
+        public Bat(int Age) : this("ManBat", Age) { }
 
+        //public Bat() : base() { }
 
         ////////////Methods//////////////////////
         public override void Eat(string food)
