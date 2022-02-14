@@ -1,0 +1,16 @@
+C:\Users\marwa\OneDrive\Pulpit\WorkTSI\TSI Test\OnlineMovieRentalSoftware\OnlineMovieRentalSoftware\bin\Debug\net5.0\OnlineMovieRentalSoftware.exe
+C:\Users\marwa\OneDrive\Pulpit\WorkTSI\TSI Test\OnlineMovieRentalSoftware\OnlineMovieRentalSoftware\bin\Debug\net5.0\OnlineMovieRentalSoftware.deps.json
+C:\Users\marwa\OneDrive\Pulpit\WorkTSI\TSI Test\OnlineMovieRentalSoftware\OnlineMovieRentalSoftware\bin\Debug\net5.0\OnlineMovieRentalSoftware.runtimeconfig.json
+C:\Users\marwa\OneDrive\Pulpit\WorkTSI\TSI Test\OnlineMovieRentalSoftware\OnlineMovieRentalSoftware\bin\Debug\net5.0\OnlineMovieRentalSoftware.runtimeconfig.dev.json
+C:\Users\marwa\OneDrive\Pulpit\WorkTSI\TSI Test\OnlineMovieRentalSoftware\OnlineMovieRentalSoftware\bin\Debug\net5.0\OnlineMovieRentalSoftware.dll
+C:\Users\marwa\OneDrive\Pulpit\WorkTSI\TSI Test\OnlineMovieRentalSoftware\OnlineMovieRentalSoftware\bin\Debug\net5.0\ref\OnlineMovieRentalSoftware.dll
+C:\Users\marwa\OneDrive\Pulpit\WorkTSI\TSI Test\OnlineMovieRentalSoftware\OnlineMovieRentalSoftware\bin\Debug\net5.0\OnlineMovieRentalSoftware.pdb
+C:\Users\marwa\OneDrive\Pulpit\WorkTSI\TSI Test\OnlineMovieRentalSoftware\OnlineMovieRentalSoftware\obj\Debug\net5.0\OnlineMovieRentalSoftware.csproj.AssemblyReference.cache
+C:\Users\marwa\OneDrive\Pulpit\WorkTSI\TSI Test\OnlineMovieRentalSoftware\OnlineMovieRentalSoftware\obj\Debug\net5.0\OnlineMovieRentalSoftware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marwa\OneDrive\Pulpit\WorkTSI\TSI Test\OnlineMovieRentalSoftware\OnlineMovieRentalSoftware\obj\Debug\net5.0\OnlineMovieRentalSoftware.AssemblyInfoInputs.cache
+C:\Users\marwa\OneDrive\Pulpit\WorkTSI\TSI Test\OnlineMovieRentalSoftware\OnlineMovieRentalSoftware\obj\Debug\net5.0\OnlineMovieRentalSoftware.AssemblyInfo.cs
+C:\Users\marwa\OneDrive\Pulpit\WorkTSI\TSI Test\OnlineMovieRentalSoftware\OnlineMovieRentalSoftware\obj\Debug\net5.0\OnlineMovieRentalSoftware.csproj.CoreCompileInputs.cache
+C:\Users\marwa\OneDrive\Pulpit\WorkTSI\TSI Test\OnlineMovieRentalSoftware\OnlineMovieRentalSoftware\obj\Debug\net5.0\OnlineMovieRentalSoftware.dll
+C:\Users\marwa\OneDrive\Pulpit\WorkTSI\TSI Test\OnlineMovieRentalSoftware\OnlineMovieRentalSoftware\obj\Debug\net5.0\ref\OnlineMovieRentalSoftware.dll
+C:\Users\marwa\OneDrive\Pulpit\WorkTSI\TSI Test\OnlineMovieRentalSoftware\OnlineMovieRentalSoftware\obj\Debug\net5.0\OnlineMovieRentalSoftware.pdb
+C:\Users\marwa\OneDrive\Pulpit\WorkTSI\TSI Test\OnlineMovieRentalSoftware\OnlineMovieRentalSoftware\obj\Debug\net5.0\OnlineMovieRentalSoftware.genruntimeconfig.cache
